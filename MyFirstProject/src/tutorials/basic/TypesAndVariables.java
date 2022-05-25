@@ -1,3 +1,4 @@
+package tutorials.basic;
 
 public class TypesAndVariables {
 	public static void main(String[] args) {

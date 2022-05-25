@@ -1,3 +1,4 @@
+package tutorials.basic;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 

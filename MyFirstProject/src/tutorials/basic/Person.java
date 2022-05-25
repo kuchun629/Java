@@ -1,3 +1,4 @@
+package tutorials.basic;
 
 public class Person {
 	String name; //instance variable
